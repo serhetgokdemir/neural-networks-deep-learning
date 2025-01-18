@@ -1,4 +1,4 @@
-# neural-networks-deep-learning
+# Building Neural Networks and Custom Convolutions: Deep Learning Techniques
 A study by Serhet Gökdemir, under the Data Science Traineeship Program by Epam SYSTEMS.
 [Visit My Portfolio](https://serhetgokdemir.github.io)<br><br>
 This project explores the foundational techniques of deep learning, including neural network construction and custom convolution operations. It begins with implementing a classification task using PyTorch and PyTorch Lightning, highlighting the development of custom architectures, hyperparameter tuning, and training scripts.<br><br>
